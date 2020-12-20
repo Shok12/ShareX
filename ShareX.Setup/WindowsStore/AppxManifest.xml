@@ -8,11 +8,11 @@
   </Properties>
   <Resources>
     <Resource Language="en-us" />
-    <Resource uap:Scale="100" />
-    <Resource uap:Scale="125" />
-    <Resource uap:Scale="150" />
-    <Resource uap:Scale="200" />
-    <Resource uap:Scale="400" />
+    <Resource uap:Scale="110" />
+    <Resource uap:Scale="135" />
+    <Resource uap:Scale="160" />
+    <Resource uap:Scale="210" />
+    <Resource uap:Scale="410" />
   </Resources>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.17763.0" MaxVersionTested="10.0.17763.0" />
